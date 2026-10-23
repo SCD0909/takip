@@ -1,6 +1,6 @@
 # takip
 
-Şifre korumalı takip sayfası. GitHub Pages üzerinden yayınlanır.
+Şifre korumalı yatırım takip sitesi (Atık Sevk & Depolama, PYROROTOR, Cl Bypass). GitHub Pages üzerinden yayınlanır.
 
 ## Nasıl çalışır
 
